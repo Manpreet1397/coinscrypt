@@ -1,0 +1,26 @@
+.watchlist {
+  min-height: 80vh;
+}
+.watchlist h2 {
+  color: #144b9d;
+}
+.watchlist a {
+  text-decoration: none;
+}
+.watchlist i {
+  cursor: pointer;
+  color: #144b9d;
+}
+.carousel-card-icons {
+  display: flex;
+  align-items: first baseline;
+}
+.coin-div {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.empty-watchlist {
+  color: #144b9d;
+  min-height: 80vh;
+}

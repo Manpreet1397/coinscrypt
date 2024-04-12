@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #fff !important;
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
+.navbar-brand {
+  font-size: 26px;
+  font-weight: 500;
+}
+.nav-link {
+  color: #000 !important;
+  font-size: 17px;
+  font-weight: 400;
+}
+.nav-link:hover {
+  text-decoration: underline;
+}
+.navbar-toggler,
+.navbar-toggler:focus,
+.navbar-toggler:active,
+.navbar-toggler-icon:focus {
+  outline: none;
+  box-shadow: none;
+  border: none;
+}
+.navbar-toggler-icon {
+  background-image: url("https://cdn-icons-png.flaticon.com/512/8550/8550935.png");
+}

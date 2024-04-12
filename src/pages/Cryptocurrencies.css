@@ -1,0 +1,17 @@
+.crypto-list h2 {
+  color: #144b9d;
+}
+.coin-name {
+  cursor: pointer;
+  font-size: 1.2rem;
+  font-weight: 450;
+}
+.coin-row i {
+  cursor: pointer;
+}
+.coin-row:hover {
+  background-color: #f1f6ff;
+}
+.crypto-table {
+  min-width: 1000px;
+}
